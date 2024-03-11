@@ -41,13 +41,9 @@ Right now everyone pretty much does the same thing - scoop ice cream - but in th
 
 This assignment is broken into stages. For each stage you'll need to do the following:
 
-1. Using everything you have learned, create an Entity Relationship Diagram for the scenario.
+1. Using everything you have learned, create a database model/schema diagram for the scenario. **This is open-ended, so, you will have to make some design decisions.**
 
-2. Using everything you have learned, turn your ER Diagram into a Postgres data schema (including mock data).
-
-**The ER Diagram is a requirement - you should export it as an image and embed it in a markdown file included in your repo.**
-
-You may or may not want to use one of the DB Schema Design tools at the top of this README to create a schema diagram as well. This is encouraged but not required.
+2. Using everything you have learned, turn your diagram into a Postgres data schema (including mock data).
 
 *Recommendation: You may want to create different git branches for each stage, so you can easily refer back to your previous work.*
 
