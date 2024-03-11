@@ -8,8 +8,6 @@ You have been hired to develop the software 32 Flavors will use to manage sales,
 
 ## Diagrams
 
-Use [ERDPlus](https://erdplus.com/) to create your ER Diagrams.
-
 Use either [QuickDatabaseDiagrams](https://www.quickdatabasediagrams.com/) or [DrawSQL](https://drawsql.app) to help design your data schema.
 
 It is fine to use a different tool if you prefer, but these are ones we like.
